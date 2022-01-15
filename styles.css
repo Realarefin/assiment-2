@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+* {
+  margin: 0;
+  padding:0;
+  font-family: 'Inter', sans-serif;
+}
+
+.blog-1 {
+  margin-top: 5%;
+  margin-left: 9%;
+  font-size: 11px;
+}
+.blog-1 img {
+  /* margin-right: 20%; */
+  margin-top: -25px;
+  width: 75%;
+}
+#frist-title {
+  font-size: 700;
+  margin-top: 5%;
+  margin-left: 12%;
+}
+#second-title {
+  font-size: 350%;
+  margin-top: 5%;
+  margin-left: 9%;
+}
+#third-title {
+  font-size: 15px;
+  margin-top: 2%;
+  margin-left: 9%;
+}
+#frist-button {
+  /* akne plm  aktu sore jabe and icon ta ase na*/
+  margin-top: 20px;
+  margin-left: 9%;
+  text-decoration: none;
+  color: aliceblue;
+  background-color: #e02c6d;
+  padding: 10px 40px;
+  border-radius: 41px;
+  display: inline-block;
+}
+#second-part {
+  text-align: center;
+  color: #3a3a3a;
+}
+.third-part-frist-item {
+  color: #18191f;
+  size: 28px;
+  width: 500;
+}
+.third-part-third-item {
+  color: #787885;
+}
+.third-main-part {
+  margin-top: 5%;
+  margin-left: 9%;
+}
+.section_1 {
+  display: flex;
+}
+.third-main-part {
+  display: flex;
+  justify-content: space-between;
+}
+
+.card {
+  background-color: red;
+  padding: 10px;
+  border-radius: 5px;
+  background: #FFFFFF;
+  box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.15);
+}
+
+footer {
+  text-align: center;
+  padding: 50px 20px;
+  background-color: #0a0826;
+  color: #fff;
+}
+
+.fab {
+  color: #fff;
+}
+
+.fab {
+  height: 30px;
+  width: 30px;
+  background-color: red;
+  line-height: 30px;
+  border-radius: 50%;
+}
+
+.btn-parent {
+  text-align: right;
+  margin: 20px;
+}
+
+.btn-2 {
+  text-decoration: none;
+  color: #e02c6d;
+  font-weight: bold;
+}
+.courses-info{
+  color: yellow;
+}
